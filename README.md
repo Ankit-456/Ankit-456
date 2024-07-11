@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ankit-456
 - 👀 I’m interested in new projects
+- Inrested in Artificial intelligence and Machine learning
 - 🌱 I’m currently learning java with dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ankitkumarekne1234@gmail.com
